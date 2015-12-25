@@ -591,6 +591,10 @@ blockquote p {
 	content: '\e80a';
 }
 
+.qa-nav-main-result .qa-nav-main-link:before {
+	content: '\e810';
+}
+
 .qa-nav-main- .qa-nav-main-link:before {
 	content: '\e80d';
 }
